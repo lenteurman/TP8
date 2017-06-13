@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TP8</string>
+    <string name="num_ro_de_t_l_phone">Numéro de Téléphone</string>
+    <string name="votre_message">Votre Message</string>
+    <string name="je_suis_pr_t">Je suis prêt</string>
+    <string name="r_digez_votre_sms">Rédigez votre SMS</string>
 </resources>
